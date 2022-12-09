@@ -7,7 +7,7 @@
 body{
     margin: 0;
     padding: 0;
-    background: url(/imagenes/pexels-pixabay-301614.jpg);
+    background: url(./image/pexels-pixabay-301614.jpg);
     height: 100vh;
     background-position: center;
     background-size: cover;
