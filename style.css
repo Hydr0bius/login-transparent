@@ -112,3 +112,15 @@ input[type="submit"]:hover{
 .signupSec a:hover{
     text-decoration: underline;
 }
+@media (max-width: 768px){
+    body{
+        padding: 2rem 0;
+    }
+    .mainSec{
+        position: absolute;
+        top: -30%;
+        height: 75%;
+        width: 80%;
+        padding: 2rem;
+    }
+}
